@@ -125,6 +125,8 @@ fitness-website/
   - MongoDB
   - JWT for authentication
   - Dialogflow for chatbot
+ 
+  - 
 Screenshots
 Here is a preview of the website interface:
 
