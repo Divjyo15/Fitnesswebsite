@@ -1,0 +1,37 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  }
+  body{
+      font-family: var(--font-name);
+  }
+  h1,h2,h3{
+      font-weight: 700;
+  }
+  section{
+      padding: 50px ,0px;
+  }
+  a{
+      text-decoration: none;
+      color: unset;
+  
+  }
+  a.hover{
+      color:unset;
+  }
+  ul{
+      list-style: none;
+  }
+  .container{
+      width: 1140px;
+      margin: auto;
+      padding: 0px 15px;
+  }
+  .section-title{
+      color:var(-- heading-color);
+      font-weight: 700;
+  }
+  
+  
+  
